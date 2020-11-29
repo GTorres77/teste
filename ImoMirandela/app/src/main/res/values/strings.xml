@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">ImoMirandela</string>
+    <string name="entar_std">entrar</string>
+    <string name="title_activity_menu_imo_mirandela">MenuImoMiranela</string>
+    <string name="VerGaleriaDeCasas">ver galeria de casas</string>
+    <string name="Marcacao_Visita">Marcacao de visita</string>
+    <string name="verPrecos">ver tabela de preços</string>
+    <string name="verMinhasMarcacos">ver as  minhas visitas</string>
+    <string name="login">login</string>
+    <string name="registrar">registrar</string>
+    <string name="nombre_transicion_imagen">imagen_compartida</string>
+    <string name="MarcacaoVisita">Marcações de visitas</string>
+    <string name="ref_imo">referencia :</string>
+    <string name="data">data :</string>
+    <string name="hora">hora :</string>
+    <string name="drive">drive</string>
+    <string name="confirmar">confirmar</string>
+    <string name="selecionaData">Seleciona uma data para a tua test Drive</string>
+    <string name="ok">ok</string>
+
+
+    <string-array name="ARef_imo">
+        <item>armazem_espinho</item>
+        <item>t2_arouca</item>
+        <item>t2_braga</item>
+        <item>t4_mirandela</item>
+    </string-array>
+
+
+    <string-array name="AHora">
+        <item>9h</item>
+        <item>10h</item>
+        <item>11h</item>
+        <item>12h</item>
+        <item>13h</item>
+        <item>14h</item>
+        <item>15h</item>
+        <item>16h</item>
+        <item>17h</item>
+    </string-array>
+</resources>
